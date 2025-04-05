@@ -19,10 +19,10 @@ class MyApp extends StatelessWidget {
     final authService = AuthService();
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: StreamBuilder(
           stream: authService.authStateChanges,
           builder: (context, snapshot) {
-           
             if (snapshot.connectionState == ConnectionState.active) {
               final user = snapshot.data;
               if (user == null) {
