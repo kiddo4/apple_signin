@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750957916790",
+    "project_id": "apple-sign-in-afd6e",
+    "storage_bucket": "apple-sign-in-afd6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750957916790:android:582fe3aac5daa932de6557",
+        "android_client_info": {
+          "package_name": "com.example.apple_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbNflx6McCfRi3ilPK2OK-Bbpl9KGT5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
