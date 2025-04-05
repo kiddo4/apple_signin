@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'apple-sign-in-afd6e.firebasestorage.app',
     measurementId: 'G-GEVGVCKWBM',
   );
+
 }
